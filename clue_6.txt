@@ -1,0 +1,14 @@
+list of families payment spring equinox sabbat
+
+-Wilson
+-White(paid)
+-Lewis
+-King(paid)
+-Hill(paid)
+-Green
+-Brown(paid)
+-Stewart
+-Cooper
+-Ward(paid)
+-Wood(paid)
+--Morgan--
